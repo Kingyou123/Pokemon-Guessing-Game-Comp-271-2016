@@ -1,7 +1,8 @@
 # Pokemon-Guessing-Game-Comp-271-2016
 A Pokemon Guessing Game using LinkList written in C++
 Use a linked list data structure.
-Welcome to Pokemon GO++!
+
+# Welcome to Pokemon GO++!
 
 By running the game, you are introduced to an introduction that tells you how the game works, and basic commands.
 You start the game with "5 Lives". Each incorrect guess and each "hint" costs you a life.
